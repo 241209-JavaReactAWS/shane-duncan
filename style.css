@@ -1,6 +1,15 @@
 body {
-  background color: tan;
-  font: arial;
+  background-color: black;
+  font-style: italic;
 }
+
+h1 {
+  color: goldenrod;
+}
+
+ul {
+  border: white
+}
+
 
 
