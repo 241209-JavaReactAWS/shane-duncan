@@ -1,1 +1,31 @@
+body {
+  background-color: rgb(25, 25, 100);
+}
 
+section {
+  color: white;
+  border-style: dotted;
+  border-color:white;
+  text-align: center;
+}
+
+#hover:hover {
+  color:blue;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  color:teal;
+  font-style: normal;
+  text-align: center;
+}
+
+ol {
+  border: white;
+  display: inline-block;
+  text-align: left;
+}
